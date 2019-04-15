@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <linearGradient id="svg_14" spreadMethod="pad">
+   <stop offset="0" stop-color="#000000"/>
+   <stop offset="1" stop-color="#3f007f" stop-opacity="0.996094"/>
+  </linearGradient>
+  <linearGradient id="svg_16" spreadMethod="pad" x1="0" x2="1" y1="0" y2="0">
+   <stop offset="0" stop-color="#000000"/>
+   <stop offset="1" stop-color="#3f007f" stop-opacity="0.996094"/>
+  </linearGradient>
+  <linearGradient id="svg_20" spreadMethod="reflect" x1="0" x2="1" y1="0" y2="0">
+   <stop offset="0.010437" stop-color="#3f007f" stop-opacity="0.996094"/>
+   <stop offset="1" stop-color="#000000" stop-opacity="0.988281"/>
+  </linearGradient>
+  <radialGradient id="svg_27" spreadMethod="pad">
+   <stop offset="0" stop-color="#3f007f" stop-opacity="0.996094"/>
+   <stop offset="1" stop-color="#000000" stop-opacity="0.992188"/>
+  </radialGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <circle cx="282.499996" cy="202.499996" fill="#000000" fill-opacity="0" id="svg_12" r="150" stroke="url(#svg_16)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="7" transform="rotate(90 282.5 202.5)"/>
+  <text fill="url(#svg_14)" font-family="Cursive" font-size="178" id="svg_17" stroke="url(#svg_16)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="227.5" xml:space="preserve" y="198.5">A</text>
+  <text fill="url(#svg_20)" font-family="Cursive" font-size="178" id="svg_19" stroke="url(#svg_16)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="318.5" xml:space="preserve" y="197.5">B</text>
+  <line fill="none" id="svg_21" stroke="url(#svg_16)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="7" x1="111.5" x2="295.673831" y1="327.5" y2="327.5"/>
+  <text fill="url(#svg_20)" font-family="Cursive" font-size="178" id="svg_28" stroke="url(#svg_27)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" x="281.5" xml:space="preserve" y="329.5">M</text>
+ </g>
+</svg>
