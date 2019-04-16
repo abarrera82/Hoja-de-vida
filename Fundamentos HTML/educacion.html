@@ -270,7 +270,7 @@
     </section>
     <section>
       <h2>Agregar Estudios</h2>
-      <form action="index.html" method="post" name="Estudios">
+      <form autocomplete="off" name="Estudios">
         <label for="Año">Año</label>
         <select name="year">
           <option value="2000">2000</option>
@@ -301,6 +301,20 @@
         <p>
           <label for="Lugar">Lugar</label>
           <textarea name="Lugar" id="Lugar" rows="1" cols="30"></textarea>
+        </p>
+        <p>
+          <label for="Culmino">Culminó:</label><br>
+          <input type="radio" name="Culmino" value="Si"> Si<br>
+          <input type="radio" name="Culmino" value="No"> No<br>
+          <input type="radio" name="Culmino" value="En curso"> En curso
+        </p>
+        <p>
+          <label for="Validacion">Validación</label><br>
+          <input type="checkbox" name="Validacion" value="validos" required> Declaro que los datos ingresados son validos<br>
+        </p>
+        <p>
+          <label for="Titulo">Título</label><br>
+          <textarea rows="1" cols="30" placeholder="Ingeniero"></textarea><br>
         </p>
         <p>
           <input type="submit" value="Enviar">
